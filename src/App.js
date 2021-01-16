@@ -53,6 +53,10 @@ function App() {
       text: "Build Todo App",
       isCompleted: false,
     },
+    {
+      text: "Remember to use Hooks",
+      isCompleted: false,
+    },
   ]);
 
   const addTodo = (text) => {
