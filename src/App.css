@@ -1,5 +1,4 @@
 .app {
-  /* background: #2671a3; */
   height: 90vh;
   padding: 30px;
   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
@@ -26,7 +25,7 @@
   padding: 5px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 15%;
+  margin-top: 5%;
 }
 
 .todo {
